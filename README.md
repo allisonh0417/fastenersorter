@@ -1,6 +1,6 @@
 EE175 Senior Design Project code by Allison Hwang 
 
-=== FILES ===
+# === FILES ===
 
 1. FastenerSorterML.ipynb
        - contains code to train the model from the provided dataset.
@@ -10,17 +10,17 @@ EE175 Senior Design Project code by Allison Hwang
 3. real_time_camera.py
        - real-time camera feed that is run through model for image detection and identification.
        - old code before we changed to 2.
-4. fastenersorter folder
+4. [fastenersorter](https://drive.google.com/drive/folders/1uJurxp6nRdFV1guRVz9-hfrJKwRSHw9s?usp=sharing) folder 
        - washer, nut, screw dataset
        - dataset we used for demo/open house
-8. archived folder
+8. [archived](https://drive.google.com/drive/folders/194mSxcmr0wEsQ1eHcdYRuZhqXKjjHnB-?usp=sharing) folder
        - screw, nut, nail dataset
        - archived dataset
 
 
 
 
-=== DIRECTIONS ===
+# === DIRECTIONS ===
 
 1. Run .ipynb file for model training. Download the "fastenersorter" dataset. Make sure that file directions/locations are changed accordingly.
 2. After training the model, download ".../best.pt" file. This is our object detection/identification model.
