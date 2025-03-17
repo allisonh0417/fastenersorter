@@ -13,9 +13,13 @@ EE175 Senior Design Project code by Allison Hwang
 4. [fastenersorter](https://drive.google.com/drive/folders/1uJurxp6nRdFV1guRVz9-hfrJKwRSHw9s?usp=sharing) folder 
        - washer, nut, screw dataset
        - dataset we used for demo/open house
-8. [archived](https://drive.google.com/drive/folders/194mSxcmr0wEsQ1eHcdYRuZhqXKjjHnB-?usp=sharing) folder
+5. [archived](https://drive.google.com/drive/folders/194mSxcmr0wEsQ1eHcdYRuZhqXKjjHnB-?usp=sharing) folder
        - screw, nut, nail dataset
        - archived dataset
+6. servo.ino
+       - Arduino code for the servos and serial communication with the Python files
+       - implemented into [Hailey](https://github.com/Hltn95/fastenersorter/blob/main/ServoControlLoadcellOutput.ino) load cell code.
+   
 
 
 
