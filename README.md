@@ -10,10 +10,10 @@ EE175 Senior Design Project code by Allison Hwang
 3. real_time_camera.py
        - real-time camera feed that is run through model for image detection and identification.
        - old code before we changed to 2.
-4. fastener_new folder
+4. fastenersorter folder
        - washer, nut, screw dataset
        - dataset we used for demo/open house
-8. fastener_old folder
+8. archived folder
        - screw, nut, nail dataset
        - archived dataset
 
@@ -22,7 +22,7 @@ EE175 Senior Design Project code by Allison Hwang
 
 === DIRECTIONS ===
 
-1. Run .ipynb file for model training. Download the "fastener_new" dataset. Make sure that file directions/locations are changed accordingly.
+1. Run .ipynb file for model training. Download the "fastenersorter" dataset. Make sure that file directions/locations are changed accordingly.
 2. After training the model, download ".../best.pt" file. This is our object detection/identification model.
 3. Run with either real_time_camera.py or pic_capture_camera.py, depending on your preferences. (real_time is live camera feed, pic_capture is snapshot)
 
